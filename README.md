@@ -158,6 +158,15 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 
 ---
 
+## 📝 Notes
+
+- ✅ Tested on 320px, 768px, 1024px, 1440px widths  
+- ✨ All interactive elements have hover/focus states  
+- 🖼️ Images maintain aspect ratio, no horizontal scroll  
+- 🔤 Consistent spacing and typography across devices
+
+---
+
 ## ✍ Author
 
 **Samuel Barasa**  
@@ -165,12 +174,5 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 - Email: samuelbarasa106@gmail.com  
 
 ---
-
-## 📝 Notes
-
-- ✅ Tested on 320px, 768px, 1024px, 1440px widths  
-- ✨ All interactive elements have hover/focus states  
-- 🖼️ Images maintain aspect ratio, no horizontal scroll  
-- 🔤 Consistent spacing and typography across devices  
 
 **Milestone:** Demonstrates **advanced CSS mastery**, **responsive layouts**, and **polished interactive design** for professional showcase.
