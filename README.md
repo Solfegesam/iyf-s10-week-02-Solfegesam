@@ -118,13 +118,37 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 </p>
 
 ---
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=radical&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+</div>
+
+
+
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Solfegesam&theme=react-dark&hide_border=true" />
+
+</div>
+
 
 ---
 
