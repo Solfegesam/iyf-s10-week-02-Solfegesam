@@ -1,15 +1,33 @@
-
 <div align="center">
 
-<img width="710" height="200" alt="image" src="https://scontent.fnbo2-1.fna.fbcdn.net/v/t39.30808-6/645074491_1398835822001705_7017201341768084046_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGqkWHR5uRrpfmJ1u9mTVTFTcCOoPmrh_RNwI6g-auH9KwKoASI5EAm7chwjpvODA7I7qaRNV7j7OgaS3-BDmDB&_nc_ohc=dpU6CW_U2FIQ7kNvwFbZSUX&_nc_oc=Adk3i4xiJxReIIlddNA-NQnvY3A4XSXRc4TxxxO4dD9pccZGddqWf2k4yNAaJ8MGZDM&_nc_zt=23&_nc_ht=scontent.fnbo2-1.fna&_nc_gid=bWkDag8NFzMKRuwcpA06fw&_nc_ss=8&oh=00_AfwbIx2oJTXJPI9XgHHCiJDX689qcd7vFIEZ3RALqO-wmA&oe=69B0C09F" />
+<img width="710" height="200" alt="Portfolio Banner" src="https://scontent.fnbo2-1.fna.fbcdn.net/v/t39.30808-6/645074491_1398835822001705_7017201341768084046_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGqkWHR5uRrpfmJ1u9mTVTFTcCOoPmrh_RNwI6g-auH9KwKoASI5EAm7chwjpvODA7I7qaRNV7j7OgaS3-BDmDB&_nc_ohc=dpU6CW_U2FIQ7kNvwFbZSUX&_nc_oc=Adk3i4xiJxReIIlddNA-NQnvY3A4XSXRc4TxxxO4dD9pccZGddqWf2k4yNAaJ8MGZDM&_nc_zt=23&_nc_ht=scontent.fnbo2-1.fna&_nc_gid=bWkDag8NFzMKRuwcpA06fw&_nc_ss=8&oh=00_AfwbIx2oJTXJPI9XgHHCiJDX689qcd7vFIEZ3RALqO-wmA&oe=69B0C09F" />
+
+</div>
 
 # IYF Week 02 - CSS Mastery Portfolio
 
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Technologies: CSS](https://img.shields.io/badge/Technologies-CSS-blue)
 ![Responsive: Mobile-First](https://img.shields.io/badge/Responsive-Mobile--First-orange)
+![Week: 02](https://img.shields.io/badge/Week-02-purple)
 
 **A fully responsive, modern portfolio showcasing advanced CSS skills, including Flexbox, Grid, typography, color schemes, and interactive design.**
+
+---
+
+## 📑 Table of Contents
+
+1. [Project Overview](#-project-overview)  
+2. [Screenshots & GIFs](#-screenshots--gifs)  
+3. [Features](#-features)  
+4. [Pages](#-pages)  
+5. [Daily Challenges](#-daily-challenges)  
+6. [Responsive Design](#-responsive-design)  
+7. [Tech Stack & Skills](#-tech-stack--skills)  
+8. [GitHub Stats](#-github-stats)  
+9. [Live Demo](#-live-demo)  
+10. [Author](#-author)  
+11. [Notes](#-notes)  
 
 ---
 
@@ -38,8 +56,7 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 *Hover: ![Projects Hover](images/projects-hover.gif)*  
 
 **Contact Page / Form**  
-<div align="center">
-<img width="70" height="20" alt="Contact Page" src="https://www.facebook.com/photo" />  
+![Contact Page](images/contact.png)  
 
 **Box Model Practice**  
 ![Box Model](images/box-model.png)  
@@ -94,9 +111,26 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 
 ---
 
+## 🛠️ Tech Stack & Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode" height="32">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=tokyonight" />
+</p>
+
+---
+
 ## 🌐 Live Demo
 
-[View Live Portfolio](https://Solfegesam.github.io/iyf-s10-week-02-Solfegesam/)  
+[View Live Portfolio](https://Solfegesam.github.io/iyf-s10-week-02-Solfegesam)  
 
 ---
 
