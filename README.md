@@ -171,7 +171,12 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 
 **Samuel Barasa**  
 - GitHub: [Solfegesam](https://github.com/Solfegesam)  
-- Email: samuelbarasa106@gmail.com  
+- Email: samuelbarasa106@gmail.com
+
+
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Solfegesam&style=flat-square" />
+</div>
 
 ---
 
