@@ -1,129 +1,102 @@
+
+
 # IYF Week 02 - CSS Mastery Portfolio
 
-![Portfolio Badge](https://img.shields.io/badge/Status-Completed-brightgreen)
-![CSS Badge](https://img.shields.io/badge/Technologies-CSS-blue)
-![Responsive Badge](https://img.shields.io/badge/Responsive-Mobile--First-orange)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Technologies: CSS](https://img.shields.io/badge/Technologies-CSS-blue)
+![Responsive: Mobile-First](https://img.shields.io/badge/Responsive-Mobile--First-orange)
 
-**A fully responsive, modern portfolio showcasing advanced CSS skills, including Flexbox, Grid, typography systems, color schemes, and interactive design.**
-
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Screenshots & GIFs](#screenshots--gifs)  
-- [Features](#features)  
-- [Pages](#pages)  
-- [Technologies Used](#technologies-used)  
-- [Daily Challenges](#daily-challenges)  
-- [Responsive Design](#responsive-design)  
-- [Live Demo](#live-demo)  
-- [Author](#author)  
+**A fully responsive, modern portfolio showcasing advanced CSS skills, including Flexbox, Grid, typography, color schemes, and interactive design.**
 
 ---
 
-## Project Overview
+## 🎯 Project Overview
+Transforming basic HTML into a **professional, mobile-first website** using modern CSS techniques:
 
-This portfolio transforms a basic HTML structure into a professional, mobile-first website using **modern CSS techniques**. It demonstrates:
-
-- Mastery of the **CSS Box Model** (content, padding, border, margin)  
-- Advanced **Flexbox & Grid layouts** for responsive design  
-- **Typography system** with CSS variables for consistent hierarchy  
-- **Color palette system** using CSS custom properties  
-- Interactive components with **hover & focus states** for accessibility  
-
-The project emphasizes **responsive design**, accessibility, and polished user experience across all devices.
+- 🖼️ Mastered **CSS Box Model** (content, padding, border, margin)  
+- 📐 Responsive **Flexbox & Grid layouts**  
+- 🔤 Scalable **Typography system** with CSS variables  
+- 🎨 **Color palette system** with CSS custom properties  
+- ✨ Interactive **hover & focus states** for accessibility  
 
 ---
 
-## Screenshots & GIFs
+## 📸 Screenshots & GIFs
 
-### Home Page / Hero Section
-![Home Page](images/home.png)
-*Hover effect GIF: ![Hero Hover](images/home-hover.gif)*
+**Home / Hero Section**  
+![Home Page](images/home.png)  
+*Hover: ![Hero Hover](images/home-hover.gif)*  
 
-### About Page
-![About Page](images/about.png)
+**About Page**  
+![About Page](images/about.png)  
 
-### Projects Page / Card Grid
-![Projects Page](images/projects.png)
-*Hover effect GIF: ![Projects Hover](images/projects-hover.gif)*
+**Projects Page / Card Grid**  
+![Projects Page](images/projects.png)  
+*Hover: ![Projects Hover](images/projects-hover.gif)*  
 
-### Contact Page / Form
-![Contact Page](images/contact.png)
+**Contact Page / Form**  
+![Contact Page](images/contact.png)  
 
-### Box Model Practice
-![Box Model](images/box-model.png)
-
----
-
-## Features
-
-- **Mobile-first responsive design**  
-- **Scalable typography system** with Google Fonts  
-- **Cohesive color palette** for branding consistency  
-- **Flexbox navigation bar** and card rows  
-- **CSS Grid** for photo gallery, magazine layout, and project cards  
-- **Interactive buttons, links, and card hover/focus states**  
-- **Multi-column footer** with social icons and copyright  
-- **Fully responsive images** and components  
-- **Accessible focus states** for links and buttons  
+**Box Model Practice**  
+![Box Model](images/box-model.png)  
 
 ---
 
-## Pages
+## ⚡ Features
 
-- **Home** – Hero section with full viewport height, overlay, and CTA button  
-- **About** – Personal information, profile picture, and skills  
-- **Projects** – Responsive grid of project cards with hover effects  
-- **Contact** – Styled contact form with focus and error states  
-- **Box Model Practice** – Demonstration of content, padding, border, and margin  
-
----
-
-## Technologies Used
-
-- HTML5 & semantic structure  
-- CSS3 & CSS Variables  
-- Google Fonts (Poppins & Roboto)  
-- Flexbox & CSS Grid  
-- Box model, hover, focus, and transition effects  
+- 📱 Mobile-first responsive design  
+- 🔤 Scalable typography with Google Fonts (Poppins & Roboto)  
+- 🎨 Cohesive color palette & branding  
+- 🧭 Flexbox navbar & card layouts  
+- 🖼️ CSS Grid for gallery and project cards  
+- ✨ Interactive hover/focus states on buttons, links, and cards  
+- 🦶 Multi-column footer with social icons  
+- 🖼️ Fully responsive images  
+- ♿ Accessible focus states  
 
 ---
 
-## Daily Challenges
+## 🗂 Pages
+
+- 🏠 **Home** – Hero with full viewport, overlay, CTA  
+- 🙋 **About** – Info, profile picture, skills  
+- 💻 **Projects** – Responsive card grid with hover effects  
+- 📬 **Contact** – Form with focus & error states  
+- 📦 **Box Model Practice** – Padding, border, margin demonstration  
+
+---
+
+## 📅 Daily Challenges
 
 | Day | Challenge | Status |
 |-----|-----------|--------|
-| 1   | Button Styles (Primary, Secondary, Danger, Disabled) | ✅ Completed |
-| 2   | Card Component with image, title, description, tags, CTA button | ✅ Completed |
-| 3   | Hero Section with background image overlay & responsive text | 🟡 In Progress |
-| 4   | Form Styling with focus & error states | 🟡 In Progress |
+| 1   | Buttons (Primary, Secondary, Danger, Disabled) | ✅ Completed |
+| 2   | Card Component with image, title, description, tags, CTA | ✅ Completed |
+| 3   | Hero Section w/ background overlay & responsive text | 🟡 In Progress |
+| 4   | Form Styling (focus & error states) | 🟡 In Progress |
 | 5   | Footer Design – multi-column & responsive | 🟡 In Progress |
 
 ---
 
-## Responsive Design
+## 📱 Responsive Design
 
-- **Mobile-first approach**  
-- **Breakpoints:**  
-  - Mobile (base styles)  
-  - Tablet: min-width 768px  
-  - Desktop: min-width 1024px  
-  - Large Desktop: min-width 1280px  
-- Navigation switches from **hamburger (mobile)** to **horizontal menu (desktop)**  
-- Projects page grid: 1 column (mobile), 2 columns (tablet), 3 columns (desktop)  
-- Forms and hero sections fully responsive  
+- Mobile-first; breakpoints:  
+  - Tablet ≥ 768px  
+  - Desktop ≥ 1024px  
+  - Large Desktop ≥ 1280px  
+- 🍔 Hamburger menu → horizontal menu  
+- 🗂️ Projects grid: 1 column (mobile), 2 (tablet), 3 (desktop)  
+- 🖥️ Fully responsive forms and hero sections  
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 
-[View Live Portfolio](https://Solfegesam.github.io/iyf-s10-week-02-Solfegesam)  
+[View Live Portfolio](https://Solfegesam.github.io/iyf-s10-week-02-Solfegesam/)  
 
 ---
 
-## Author
+## ✍ Author
 
 **Samuel Barasa**  
 - GitHub: [Solfegesam](https://github.com/Solfegesam)  
@@ -131,14 +104,11 @@ The project emphasizes **responsive design**, accessibility, and polished user e
 
 ---
 
-## Notes
+## 📝 Notes
 
-- Tested on screen widths: 320px, 768px, 1024px, 1440px  
-- All interactive elements include hover/focus states for accessibility  
-- Images are responsive and maintain aspect ratio  
-- No horizontal scroll on any screen size  
-- Consistent spacing and readable typography across devices  
+- ✅ Tested on 320px, 768px, 1024px, 1440px widths  
+- ✨ All interactive elements have hover/focus states  
+- 🖼️ Images maintain aspect ratio, no horizontal scroll  
+- 🔤 Consistent spacing and typography across devices  
 
----
-
-**Milestone:** This portfolio demonstrates **advanced CSS mastery**, **responsive layouts**, and **polished interactive design** suitable for professional showcase.
+**Milestone:** Demonstrates **advanced CSS mastery**, **responsive layouts**, and **polished interactive design** for professional showcase.
