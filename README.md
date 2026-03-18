@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="710" height="200" alt="Portfolio Banner" src="https://scontent.fnbo2-1.fna.fbcdn.net/v/t39.30808-6/645074491_1398835822001705_7017201341768084046_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGqkWHR5uRrpfmJ1u9mTVTFTcCOoPmrh_RNwI6g-auH9KwKoASI5EAm7chwjpvODA7I7qaRNV7j7OgaS3-BDmDB&_nc_ohc=dpU6CW_U2FIQ7kNvwFbZSUX&_nc_oc=Adk3i4xiJxReIIlddNA-NQnvY3A4XSXRc4TxxxO4dD9pccZGddqWf2k4yNAaJ8MGZDM&_nc_zt=23&_nc_ht=scontent.fnbo2-1.fna&_nc_gid=bWkDag8NFzMKRuwcpA06fw&_nc_ss=8&oh=00_AfwbIx2oJTXJPI9XgHHCiJDX689qcd7vFIEZ3RALqO-wmA&oe=69B0C09F" />
-
+<img width="710" height="200" alt="Portfolio Banner" src="https://scontent.fnbo2-1.fna.fbcdn.net/v/t39.30808-6/645074491_1398835822001705_7017201341768084046_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGqkWHR5uRrpfmJ1u9mTVTFTcCOoPmrh_RNwI6g-auH9KwKoASI5EAm7chwjpvODA7I7qaRNV7j7OgaS3-BDmDB&_nc_ohc=dpU6CW_U2FIQ7kNvwFbZSUX&_nc_oc=Adk3i4xiJxReIIlddNA-NQnvY3A4XSXRc4TxxxO4dD9pccZGddqWf2k4yNAaJ8MGZDM&_nc_zt=23&_nc_ht=scontent.fnbo2-1.fna&_nc_gid=bWkDag8NFzMKRuwcpA06fw&_nc_ss=8&oh=00_AfwbIx2oJTXJPI9XgHHCiJDX689qcd7vFIEZ3RALqO-wmA&oe=69B0C09F"/>
 </div>
 
 # IYF Week 02 - CSS Mastery Portfolio
@@ -43,7 +42,9 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 ---
 
 ## 📸 Screenshots & GIFs
-https://chatgpt.com/backend-api/estuary/content?id=file_000000007c3471fd8c0b7ecb2d7c3250&ts=492731&p=fs&cid=1&sig=654b92b7e5c4f6ebb7364c687cf49df64f49b765f3e02e216dea67094a51f17c&v=0
+
+<div align="center">
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000007c3471fd8c0b7ecb2d7c3250&ts=492731&p=fs&cid=1&sig=654b92b7e5c4f6ebb7364c687cf49df64f49b765f3e02e216dea67094a51f17c&v=0"/>
 
 ---
 
