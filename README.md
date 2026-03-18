@@ -44,7 +44,7 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 ## 📸 Screenshots & GIFs
 
 <div align="center">
-  <img alt="image" src="https://chatgpt.com/backend-api/estuary/content?"/>
+  <img alt="image" src="https://chatgpt.com/s/m_69ba9299887481919bec49f1ffa283a7"/>
 </div>
 
 ---
