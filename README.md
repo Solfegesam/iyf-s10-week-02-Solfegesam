@@ -44,7 +44,7 @@ Transforming basic HTML into a **professional, mobile-first website** using mode
 ## 📸 Screenshots & GIFs
 
 <div align="center">
-  <img alt="image" src="https://chatgpt.com/s/m_69ba9299887481919bec49f1ffa283a7"/>
+  <img alt="image" src="https://web.facebook.com/photo/?fbid=2028158468113689&set=a.872587177004163&__cft__[0]=AZa-JBf89Cc0Rv8J80oAnntfdwqbWyQw_cwU1Eo5OVWuNU4G1lF4L5EOVs_flvhkDaauuWb8MuB-x1fsBCU7poBlfFRBTevHIcFJ203Em1iqmQ&__tn__=EH-R"/>
 </div>
 
 ---
