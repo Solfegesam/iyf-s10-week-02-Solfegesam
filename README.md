@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="710" height="200" alt="Portfolio Banner" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000007b8871fd85c0fce05288dab4&cp=pri&ma=90000&ts=20530&p=igh&cid=1&sig=acb7276e9fc3df38b723b65e9b141cde197c942198aed0f90d46afcb9bd7b6b1&v=0" />
+<img width="710" height="200" alt="Portfolio Banner" src="https://chatgpt.com/backend-api/estuary/content?" />
 </div>
 
 # IYF Week 02 - CSS Mastery Portfolio
